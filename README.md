@@ -50,7 +50,7 @@
 
 [website]: https://github.com/4674ghkbvgy
 [twitter]: https://twitter.com/4674ghkbvgy/
-[youtube]: https://www.youtube.com/channel/UCFkxUDdHopW60HQXCAxCveA
+[youtube]: 
 
 [webdevplaylist]: https://github.com/4674ghkbvgy
 [jsplaylist]: https://github.com/4674ghkbvgy
