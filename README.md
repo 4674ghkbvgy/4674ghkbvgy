@@ -1,4 +1,4 @@
-### Hi there, I'm 4674 👋
+### Hi there, I'm Zhang Tianyu👋
 
 
 
@@ -6,7 +6,7 @@
 
 - 🔭 I'm studying software engineering major!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 
 ### Languages and Tools:
